@@ -1,0 +1,3 @@
+0|glob|blob
+1|blob|glob
+2|maslo|maslane
